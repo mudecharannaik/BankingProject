@@ -1,0 +1,6 @@
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("vivekmali1436/banking-transactions-dataset")
+
+print("Path to dataset files:", path)
