@@ -284,7 +284,7 @@ Open the HTML directly in any browser - no server required.
 
 ### SQL
 - `sql/banking_analytics.sql` - 15 analytical queries
-- `sql/scripts/` - 55 progressive SQL exercise files (schema through advanced analytics)
+- `sql/scripts/` - 32 progressive SQL exercise files (schema through advanced analytics)
 
 ## Skills Library
 
