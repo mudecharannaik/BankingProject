@@ -1,5 +1,6 @@
 ﻿# Banking Analytics Project
 
+google drive link for full project : https://drive.google.com/drive/folders/1zPilSjQ13CIcY3whEjNuCwvfCPbeOKWI?usp=sharing for full project
 A comprehensive banking analytics pipeline built on a 10-table relational dataset covering customers, accounts, transactions, loans, cards, and support tickets. The project follows a skills-based architecture with modular ETL, analytics, visualization, and reporting layers.
 
 ## Overview
